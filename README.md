@@ -1,4 +1,4 @@
-# 🐍 Ultimate Snake Game
+# 🐍 Snake Game
 
 A fully-featured Snake game built with JavaScript, HTML5 Canvas, and CSS.
 
@@ -19,3 +19,4 @@ A fully-featured Snake game built with JavaScript, HTML5 Canvas, and CSS.
 - Arrow keys or WASD to move
 - Spacebar to pause
 - Swipe on mobile devices
+
