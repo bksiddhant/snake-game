@@ -1,13 +1,22 @@
-# 🐍 Snake Game in Python
+# 🐍 Ultimate Snake Game
 
-A simple Snake Game built with Pygame.
+A fully-featured Snake game built with JavaScript, HTML5 Canvas, and CSS.
 
-## How to Play
-- Run the game with: `python snake_game.py`
-- Use arrow keys to control the snake
-- Eat food to grow
-- Don’t hit the walls or yourself!
+## Features
+- Multiple difficulty levels
+- Theme toggling (light/dark/retro)
+- Power-ups (speed boost, shrink, invincibility)
+- Local high score persistence
+- Level progression with increasing speed
+- Visual effects and animations
+- Sound effects
+- Mobile responsive design
+- Accessibility features
 
-## Install
-Run this command to install dependencies:
-pip install -r requirements.txt
+## Play Now
+[Play the game here!](https://yourusername.github.io/snake-game/)
+
+## Controls
+- Arrow keys or WASD to move
+- Spacebar to pause
+- Swipe on mobile devices
