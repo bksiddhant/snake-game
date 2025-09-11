@@ -8,7 +8,6 @@ A fully-featured Snake game built with JavaScript, HTML5 Canvas, and CSS.
 - Power-ups (speed boost, shrink, invincibility)
 - Local high score persistence
 - Level progression with increasing speed
-- Visual effects and animations
 - Sound effects
 - Mobile responsive design
 - Accessibility features
@@ -20,4 +19,3 @@ A fully-featured Snake game built with JavaScript, HTML5 Canvas, and CSS.
 - Arrow keys or WASD to move
 - Spacebar to pause
 - Swipe on mobile devices
-
